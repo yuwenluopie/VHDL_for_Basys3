@@ -8,7 +8,7 @@
 -->
 # _CE339_High Level Digital Design_
 
-#### By _**{Yu Wenlu wy19403@essex.ac.uk University of Essex}**_
+#### By _**{ZLB wy19403@essex.ac.uk University of Essex}**_
 
 #### _This project is an assignment submission for the CE339 course_
 
